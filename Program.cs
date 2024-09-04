@@ -64,7 +64,7 @@ namespace ManoPrograma
 
         //}
 
-        //3 uzduotis (nebaigta)
+        //3 uzduotis
 
         public static void Main(string[] args)
         {
@@ -97,12 +97,7 @@ namespace ManoPrograma
         }
 
 
-
-
-
     }
-
-
 
     }
 
